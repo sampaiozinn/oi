@@ -1,3 +1,14 @@
-podman run -it debian /bin/bash
-apt-get update && apt-get install -y neofetch
-neofetch
+# CÓDIGO
+
+Exercicio 1: Criar um container com o Debian e que seja interativo, que dentro dele tenha o neofetch.
+1. podman run -it debian /bin/bash
+2. apt-get update && apt-get install -y neofetch
+3. neofetch
+
+Exercicio 2: Criar um container com o Debian destacável, que tenha python.
+
+
+Exercicio 3: Criar um container fedora, interativo que tenha yt-dlp.
+
+
+Exercicio 4: Criar um container fedora, interativo que tenha python e que tenha a ferramenta gallery-dl
