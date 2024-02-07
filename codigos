@@ -11,6 +11,11 @@ Exercicio 2: Criar um container com o Debian destacável, que tenha python.
 3. apt update && apt install python3 -y
 
 Exercicio 3: Criar um container fedora, interativo que tenha yt-dlp.
-
+1.
+2.
+3.
 
 Exercicio 4: Criar um container fedora, interativo que tenha python e que tenha a ferramenta gallery-dl
+1.
+2.
+3.
