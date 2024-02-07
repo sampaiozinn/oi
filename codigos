@@ -6,7 +6,10 @@ Exercicio 1: Criar um container com o Debian e que seja interativo, que dentro d
 3. neofetch
 
 Exercicio 2: Criar um container com o Debian destacável, que tenha python.
-
+1. podman pull debian
+2. podman run -if debian
+3. podman run -it  debian
+4. apt update && apt install python3 -y
 
 Exercicio 3: Criar um container fedora, interativo que tenha yt-dlp.
 
