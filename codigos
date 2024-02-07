@@ -17,6 +17,8 @@ Exercicio 3: Criar um container fedora, interativo que tenha yt-dlp.
 4. sudo dnf install yt-dlp
 
 Exercicio 4: Criar um container fedora, interativo que tenha python e que tenha a ferramenta gallery-dl
-1.
-2.
-3.
+1. podman pull fedora
+2. podman run -it fedora
+3. dnf install python3
+4. dnf install python3-pip
+5. pip install gallery-dl
